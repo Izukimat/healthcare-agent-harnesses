@@ -18,9 +18,9 @@
 
 | Reading | Video digest | Focus | Peter & Karen | Izuki |
 |---|---|---|---|---|
-| **1. [Building Effective Agents — Anthropic](https://www.anthropic.com/research/building-effective-agents)** | [▶ 3:39](https://github.com/Izukimat/healthcare-agent-harnesses/releases/download/reading-01-digest/reading-01-building-effective-agents.mp4) | The differences between LLMs, workflows, and autonomous agents. Understand tool calling, agent loops, routing, and orchestration. Focus on *when agents are necessary* and when simpler workflows are preferable. | **Essential** | **Essential** |
+| **1. [Building Effective Agents — Anthropic](https://www.anthropic.com/research/building-effective-agents)** | [▶ Watch (3:39)](#reading-1-video-digest) | The differences between LLMs, workflows, and autonomous agents. Understand tool calling, agent loops, routing, and orchestration. Focus on *when agents are necessary* and when simpler workflows are preferable. | **Essential** | **Essential** |
 | **2. [What Is an Agent Harness? — Google Cloud](https://cloud.google.com/discover/agent-harness)** | Not planned (short reading) | The fundamental definition and architecture of a harness. Understand execution loops, tool management, context, memory, state persistence, guardrails, and observability. Identify which responsibilities belong to the model versus the surrounding system. | **Essential** | **Essential** |
-| **3. [Demystifying Evals for AI Agents — Anthropic](https://www.anthropic.com/research/demystifying-evals-for-ai-agents)** | [▶ 4:51](https://github.com/Izukimat/healthcare-agent-harnesses/releases/download/reading-03-digest/reading-03-demystifying-evals-for-ai-agents.mp4) | How to evaluate agents beyond final-answer accuracy. Understand outcome evaluation, execution traces, code-based graders, model-based graders, expert human evaluation, and the importance of realistic failure scenarios. | **Essential** | **Essential** |
+| **3. [Demystifying Evals for AI Agents — Anthropic](https://www.anthropic.com/research/demystifying-evals-for-ai-agents)** | [▶ Watch (4:51)](#reading-3-video-digest) | How to evaluate agents beyond final-answer accuracy. Understand outcome evaluation, execution traces, code-based graders, model-based graders, expert human evaluation, and the importance of realistic failure scenarios. | **Essential** | **Essential** |
 | **4. [LLM06: Excessive Agency — OWASP](https://genai.owasp.org/llmrisk/llm062025-excessive-agency/)** | — | Why excessive permissions, tool access, and autonomy create safety risks. Consider how these risks could manifest in clinical environments, particularly with EHR access, medication orders, and other consequential operations. | **Essential** | **Recommended** |
 
 **Video digests:** Videos for Readings 1 and 3 are optional introductions prepared by Izuki; use the linked original articles for the full discussions. Reading 2 is short, so no companion video is planned. Video digests for selected longer readings are in progress. Reading priorities remain unchanged.
@@ -115,3 +115,26 @@ By the end of this initial reading phase, we should aim to produce:
 Our immediate goal is not to decide on a final manuscript title or journal. It is to become sufficiently familiar with the field to formulate a defensible and genuinely novel research question.
 
 The technical and clinical readings are intentionally weighted differently. We do not all need to understand implementation details at the same depth, but we should all be able to evaluate the research questions, experimental assumptions, and significance of the findings.
+
+
+---
+
+## Watch video digests
+
+Play these viewing copies directly on GitHub. Full-size original MP4 downloads are also available below each player.
+
+### Reading 1 video digest
+
+[Building Effective Agents — Anthropic](https://www.anthropic.com/research/building-effective-agents) · **3:39** · prepared by Izuki
+
+https://github.com/user-attachments/assets/c339906d-bfc1-4900-a497-e605aed41d1c
+
+[Download original MP4](https://github.com/Izukimat/healthcare-agent-harnesses/releases/download/reading-01-digest/reading-01-building-effective-agents.mp4)
+
+### Reading 3 video digest
+
+[Demystifying Evals for AI Agents — Anthropic](https://www.anthropic.com/research/demystifying-evals-for-ai-agents) · **4:51** · prepared by Izuki
+
+https://github.com/user-attachments/assets/7af09962-7f1b-4c91-a877-d5f4c093bccd
+
+[Download original MP4](https://github.com/Izukimat/healthcare-agent-harnesses/releases/download/reading-03-digest/reading-03-demystifying-evals-for-ai-agents.mp4)
