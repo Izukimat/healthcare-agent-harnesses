@@ -18,10 +18,12 @@
 
 | Reading | Focus | Peter & Karen | Izuki |
 |---|---|---|---|
-| **1. [Building Effective Agents — Anthropic](https://www.anthropic.com/research/building-effective-agents)** | The differences between LLMs, workflows, and autonomous agents. Understand tool calling, agent loops, routing, and orchestration. Focus on *when agents are necessary* and when simpler workflows are preferable. | **Essential** | **Essential** |
+| **1. [Building Effective Agents — Anthropic](https://www.anthropic.com/research/building-effective-agents)**<br>[▶ Video digest (3:39)](https://github.com/Izukimat/healthcare-agent-harnesses/releases/download/reading-01-digest/reading-01-building-effective-agents.mp4) | The differences between LLMs, workflows, and autonomous agents. Understand tool calling, agent loops, routing, and orchestration. Focus on *when agents are necessary* and when simpler workflows are preferable. | **Essential** | **Essential** |
 | **2. [What Is an Agent Harness? — Google Cloud](https://cloud.google.com/discover/agent-harness)** | The fundamental definition and architecture of a harness. Understand execution loops, tool management, context, memory, state persistence, guardrails, and observability. Identify which responsibilities belong to the model versus the surrounding system. | **Essential** | **Essential** |
 | **3. [Demystifying Evals for AI Agents — Anthropic](https://www.anthropic.com/research/demystifying-evals-for-ai-agents)** | How to evaluate agents beyond final-answer accuracy. Understand outcome evaluation, execution traces, code-based graders, model-based graders, expert human evaluation, and the importance of realistic failure scenarios. | **Essential** | **Essential** |
 | **4. [LLM06: Excessive Agency — OWASP](https://genai.owasp.org/llmrisk/llm062025-excessive-agency/)** | Why excessive permissions, tool access, and autonomy create safety risks. Consider how these risks could manifest in clinical environments, particularly with EHR access, medication orders, and other consequential operations. | **Essential** | **Recommended** |
+
+**Video digests:** The Reading 1 video is an optional introduction prepared by Izuki; use the linked original article for the full discussion. Video digests for selected longer readings are in progress. Reading priorities remain unchanged.
 
 ### Questions for our first discussion
 
